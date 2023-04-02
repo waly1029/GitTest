@@ -9,3 +9,4 @@ getskillsTest/
 # 忽略所有 .txt 文件，但不包括 README.txt 文件
 # *.txt
 # !README.txt
+.DS_Store
