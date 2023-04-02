@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 Add merge test.
 
 On branch dev...
+
+tag v1.0
