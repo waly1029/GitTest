@@ -1,0 +1,10 @@
+# 忽略所有 .log 文件
+# *.log
+
+# 忽略 bulid 文件夹
+# build/
+getskillsTest/
+
+# 忽略所有 .txt 文件，但不包括 README.txt 文件
+# *.txt
+# !README.txt
